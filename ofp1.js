@@ -1,6 +1,4 @@
-/*==============================================================================*/
-/* Casper generated Wed Apr 01 2015 12:24:36 GMT+0200 (W. Europe Daylight Time) */
-/*==============================================================================*/
+
 
 var x = require('casper').selectXPath;
 casper.options.viewportSize = {width: 1018, height: 594};
